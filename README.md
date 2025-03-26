@@ -3,8 +3,8 @@
 - 👯 I’m looking to collaborate on [Hive HAF a Decentralized Apps postgresql database exposing APIs for hive.io blockchain](https://github.com/FreeBeings-io/haf-plug-play)
 - 🔭 I’m currently working on [Mastodon Toot Bot:https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/ podping-stats a reporting on podpings of the Podcasting 2.0 infrastructure](https://github.com/seakintruth/podping-stats)
   - Reports hosted  on [Github.io](https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/) 
-- 🌱 I’m currently learning Python
-- 💬 Ask me about R, VBA
+- 🌱 I’m currently learning Oracle PL/SQL
+- 💬 Ask me about Python, R, VBA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tojeremygerdes/)
 
 <!--
